@@ -4323,7 +4323,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"https://docs.zoho.com/sheet/publishrange.do?id=5e4524e6fc0c44704d10c35757842857\" frameborder=\"0\" style=\"height:702px;width:320px\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"auto\"> </iframe>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe width=\"100%\" height=\"800\" frameborder=\"0\" scrolling=\"no\" src=\"https://docs.zoho.com/writer/published/4xwcwee29731c34bb4cb6b508af93789ab893?mode=embed\"></iframe>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
